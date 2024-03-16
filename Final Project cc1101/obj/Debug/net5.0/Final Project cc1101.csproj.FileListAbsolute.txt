@@ -1,0 +1,16 @@
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\bin\Debug\net5.0\Final Project cc1101.exe
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\bin\Debug\net5.0\Final Project cc1101.deps.json
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\bin\Debug\net5.0\Final Project cc1101.runtimeconfig.json
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\bin\Debug\net5.0\Final Project cc1101.runtimeconfig.dev.json
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\bin\Debug\net5.0\Final Project cc1101.dll
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\bin\Debug\net5.0\Final Project cc1101.pdb
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\Final Project cc1101.csproj.AssemblyReference.cache
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\Final Project cc1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\Final Project cc1101.AssemblyInfoInputs.cache
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\Final Project cc1101.AssemblyInfo.cs
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\Final Project cc1101.csproj.CoreCompileInputs.cache
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\Final Project cc1101.dll
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\ref\Final Project cc1101.dll
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\Final Project cc1101.pdb
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\Final Project cc1101.genruntimeconfig.cache
+C:\Users\Yolo09\Documents\Career development\Codewise Academy\Anoyolo\Cloud Computing\Final Project\Final Project cc1101\Final Project cc1101\obj\Debug\net5.0\refint\Final Project cc1101.dll
