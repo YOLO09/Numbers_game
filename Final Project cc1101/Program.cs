@@ -20,9 +20,13 @@ namespace Final_Project_cc1101
             {
                 t = "This number is even";
             }
-            else
+            else if(x > 0)
             {
                 t = "This number is odd";
+            }
+            else
+            {
+                t = "Please enter a number";
             }
             return t;
         }
